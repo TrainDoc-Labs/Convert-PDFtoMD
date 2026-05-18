@@ -1,10 +1,10 @@
-# Privacy Policy: PDF → Markdown Pro
+# Privacy Policy: PDFtoMD
 **Last Updated:** April 27, 2026
 
 ---
 
 ### 1. Overview
-PDF → Markdown Pro (the "Application") is a desktop utility designed to convert PDF documents into Markdown format. Your privacy is our top priority. This Privacy Policy explains that we do not collect, store, or share any of your personal data.
+PDFtoMD (the "Application") is a desktop utility designed to convert PDF documents into Markdown format. Your privacy is our top priority. This Privacy Policy explains that we do not collect, store, or share any of your personal data.
 
 ### 2. No Data Collection
 * **No Personal Information:** The Application does not require an account, name, email address, or any other personal identifiers.
