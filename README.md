@@ -28,7 +28,7 @@ Convert PDFtoMD (the "Application") is a desktop utility designed to convert PDF
 
 * **100% Offline:** Your files never leave your computer.
 * **No Tracking:** No accounts, no analytics, no logs.
-* **Full Policy:** Read our complete [Privacy Policy](PRIVACY POLICY.md).
+* **Full Policy:** Read our complete [Privacy Policy & Terms of Sale](https://github.com/TrainDoc-Labs/Convert-PDFtoMD/blob/main/PRIVACY%20POLICY.md).
 
 ## ⚖️ License & Open Source
 This application is distributed under the **GNU Affero General Public License v3.0 (AGPL v3.0)**. 
