@@ -27,8 +27,8 @@ Because the Application operates strictly on your local machine and has no inter
 This Application uses the PyMuPDF and pymupdf4llm libraries for document parsing and CustomTkinter for the user interface. These libraries are bundled within the app and operate under the same local-only, no-data-collection principles described above.
 
 ### 7. Open Source & Licensing
-This application is built using the PyMuPDF4LLM engine. In accordance with the **GNU Affero General Public License v3.0 (AGPL v3.0)**, the full source code for this application is available to the public.
-* **License:** This application is distributed under the terms of the GNU AGPL v3.0. There is no warranty for this software to the extent permitted by applicable law.
+This Application is built using the PyMuPDF4LLM engine. In accordance with the **GNU Affero General Public License v3.0 (AGPL v3.0)**, the full source code for this Application is available to the public.
+* **License:** This Application is distributed under the terms of the GNU AGPL v3.0. There is no warranty for this software to the extent permitted by applicable law.
 
 
 ---
