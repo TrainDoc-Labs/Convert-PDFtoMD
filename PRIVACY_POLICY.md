@@ -1,10 +1,10 @@
-# Privacy Policy: PDFtoMD
+# Privacy Policy: Convert PDFtoMD
 **Last Updated:** April 27, 2026
 
 ---
 
 ### 1. Overview
-PDFtoMD (the "Application") is a desktop utility designed to convert PDF documents into Markdown format. Your privacy is our top priority. This Privacy Policy explains that we do not collect, store, or share any of your personal data.
+Convert PDFtoMD (the "Application") is a desktop utility designed to convert PDF documents into Markdown format. Your privacy is our top priority. This Privacy Policy explains that we do not collect, store, or share any of your personal data.
 
 ### 2. No Data Collection
 * **No Personal Information:** The Application does not require an account, name, email address, or any other personal identifiers.
@@ -19,12 +19,12 @@ PDFtoMD (the "Application") is a desktop utility designed to convert PDF documen
 Because the Application operates strictly on your local machine and has no internet communication capabilities, it is inherently protected from external data breaches. Your documents remain within your own secured environment at all times.
 
 ### 5. Data Storage and Deletion
-* **Input/Output:** The Application reads the PDF you select and saves the Markdown file to your local storage.
+* **Input/Output:** The Application reads the PDF you select and saves the Markdown file to your Downloads folder.
 * **No Persistence:** We do not store copies of your files. Once the conversion is finished, the Application has no memory of the data processed.
-* **App Deletion:** To remove the Application, simply delete the .exe file. Deleting the Application will not remove any Markdown files you have previously generated; those will remain in your chosen save location until you manually delete them.
+* **App Deletion:** To remove the Application, simply delete the .exe file. Deleting the Application will not remove any Markdown files you have previously generated; those will remain in your Downloads folder until you manually delete them.
   
 ### 6. Third-Party Libraries
-This app uses the PyMuPDF and pymupdf4llm libraries for document parsing and CustomTkinter for the user interface. These libraries are bundled within the app and operate under the same local-only, no-data-collection principles described above.
+This Application uses the PyMuPDF and pymupdf4llm libraries for document parsing and CustomTkinter for the user interface. These libraries are bundled within the app and operate under the same local-only, no-data-collection principles described above.
 
 ### 7. Open Source & Licensing
 This application is built using the PyMuPDF4LLM engine. In accordance with the **GNU Affero General Public License v3.0 (AGPL v3.0)**, the full source code for this application is available to the public.
