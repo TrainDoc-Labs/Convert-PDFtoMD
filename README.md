@@ -1,6 +1,6 @@
-# PDFtoMD 📄➡️⬇️
+# Convert PDFtoMD 📄➡️⬇️
 
-**PDFtoMD** is a powerful desktop utility designed to convert PDF documents into clean, high-quality Markdown format quickly and securely.
+**Convert PDFtoMD** is a powerful desktop utility designed to convert PDF documents into clean, high-quality Markdown format quickly and securely.
 
 ---
 
@@ -24,7 +24,7 @@
 3. **Convert:** Choose your PDF and convert.
 
 ## 🔒 Privacy & Security
-PDF → Markdown Pro (the "Application") is a desktop utility designed to convert PDF documents into Markdown format. Your privacy is our top priority. This Privacy Policy explains that we do not collect, store, or share any of your personal data.
+Convert PDFtoMD (the "Application") is a desktop utility designed to convert PDF documents into Markdown format. Your privacy is our top priority. This Privacy Policy explains that we do not collect, store, or share any of your personal data.
 
 * **100% Offline:** Your files never leave your computer.
 * **No Tracking:** No accounts, no analytics, no logs.
